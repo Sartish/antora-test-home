@@ -1,5 +1,5 @@
-name: antora-test-home
-title: Antora Test Home
-version: "1.0"
-nav:
-  - modules/ROOT/nav.adoc
+    name: developer-edition
+    title: Developer Edition
+    version: 1.0      # or latest
+    nav:
+      - modules/ROOT/nav.adoc
