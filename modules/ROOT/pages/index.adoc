@@ -6,7 +6,7 @@ Antora Demo
 Welcome to the Antora test site. This page was generated from the
 standard Antora structure added to this repository.
 
-<p>Welcome to developer edition home page.</p>
+<p>Welcome to developer edition home page. This is a great page</p>
 
 == What’s here
 

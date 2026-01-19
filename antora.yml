@@ -1,5 +1,5 @@
-    name: developer-edition
-    title: Developer Edition
-    version: 1.0      # or latest
-    nav:
-      - modules/ROOT/nav.adoc
+  name: developer-edition
+  title: Developer Edition
+  version: latest   # or remove this line
+  nav:
+    - modules/ROOT/nav.adoc
