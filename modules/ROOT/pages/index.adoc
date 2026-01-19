@@ -6,6 +6,8 @@ Antora Demo
 Welcome to the Antora test site. This page was generated from the
 standard Antora structure added to this repository.
 
+<p>Welcome to developer edition home page.</p>
+
 == What’s here
 
 * A component descriptor in `antora.yml`
