@@ -1,0 +1,20 @@
+= Antora Test Home
+Antora Demo
+:page-layout: default
+:page-role: landing
+
+Welcome to the Antora test site. This page was generated from the
+standard Antora structure added to this repository.
+
+== What’s here
+
+* A component descriptor in `antora.yml`
+* A default playbook in `antora-playbook.yml`
+* This landing page at `modules/ROOT/pages/index.adoc`
+
+== Next steps
+
+* Run `npx antora antora-playbook.yml` to build the site.
+* Add more pages under `modules/ROOT/pages/`.
+* Extend the navigation in `modules/ROOT/nav.adoc`.
+

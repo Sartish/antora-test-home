@@ -1,0 +1,5 @@
+name: antora-test-home
+title: Antora Test Home
+version: "1.0"
+nav:
+  - modules/ROOT/nav.adoc

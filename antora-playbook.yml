@@ -1,0 +1,17 @@
+site:
+  title: Antora Test Home
+  start_page: antora-test-home::index.adoc
+
+content:
+  sources:
+    - url: .
+      branches: HEAD
+
+ui:
+  bundle:
+    url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/stable/download?job=pages
+    snapshot: true
+
+output:
+  dir: build/site
+

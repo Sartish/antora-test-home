@@ -1,0 +1,5 @@
+= Developer Edition
+:page-layout: default
+
+Developer edition home page.
+
